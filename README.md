@@ -1,6 +1,6 @@
 # Data-Visualization
 
 Requirements:
-pip install matplotlib
 
+pip install matplotlip ,
 pip install numpy
